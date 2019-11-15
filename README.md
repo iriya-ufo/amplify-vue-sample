@@ -42,3 +42,10 @@ $ make clean
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## DevOps
+```
+$ docker-compose run app <vue-cli-command>
+$ make build
+$ make up
+```
